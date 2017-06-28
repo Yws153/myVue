@@ -1,0 +1,25 @@
+{
+  "name": "myvue",
+  "version": "1.0.0",
+  "description": "vue test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yws153/myVue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "yezi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yws153/myVue/issues"
+  },
+  "homepage": "https://github.com/Yws153/myVue#readme",
+  "dependencies": {
+    "vue": "^2.3.4"
+  }
+}
